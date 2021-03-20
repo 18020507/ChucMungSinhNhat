@@ -480,7 +480,7 @@ $(document).ready(function() {
         }
     }
 
-    const message = '   PhạmQuỳnh  ';
+    const message = '   TrungHieu  ';
     // start with a large font size
 
     const id = 'fizzytext';

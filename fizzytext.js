@@ -480,7 +480,7 @@ $(document).ready(function() {
         }
     }
 
-    const message = '   TrungHieu  ';
+    const message = '   NguyenTrungHieu  ';
     // start with a large font size
 
     const id = 'fizzytext';
